@@ -40,7 +40,7 @@ Gera sugestões automáticas de locais, trilhas e experiências personalizadas.
 Facilita o planejamento e torna a visita mais organizada e educativa.
 
 #Tecnologias Utilizadas
-Categoria	                 Tecnologias
+#Categoria	                 #Tecnologias
 
 Frontend	                   HTML5, CSS3, JavaScript
 Backend	                     Node.js (Express)
