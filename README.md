@@ -10,8 +10,8 @@ Apesar de seu rico patrimônio histórico, cultural e natural, Igarassu ainda en
 ## **Problema**
 
 Apesar de possuir um rico patrimônio histórico, cultural e natural, Igarassu enfrenta desafios para valorizar e promover seu turismo local.
-A cidade carece de divulgação adequada, informações centralizadas e incentivos que conectem moradores e visitantes aos seus atrativos.
-Essa falta de estrutura e comunicação reduz o engajamento da população com o turismo e limita o potencial econômico e cultural do município.
+A cidade carece de divulgação adequada de seus pontos turísticos, informações centralizadas dos eventos culturais/sociais e incentivos que conectem moradores e visitantes aos seus atrativos.
+Essa falta de estrutura e comunicação reduz o engajamento da população com o turismo, limitando o potencial econômico e cultural do município.
 
 ## **Objetivo do Projeto**
 
