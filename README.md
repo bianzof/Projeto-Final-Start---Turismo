@@ -1,6 +1,6 @@
 # Projeto Final Start Turismo
 
-Projeto final para o programa Start, da Rede Cidadã, onde seráaplicado os ensinamentos aprendidos em aulas para a criação de um website sobre turismo na cidade de Igarassu - PE
+Projeto final para o programa Start, da Rede Cidadã, no qual serão aplicados os ensinamentos aprendidos em aulas para a criação de um website sobre turismo na cidade de Igarassu - PE.
 
 ## **Sobre Igarassu**
 
