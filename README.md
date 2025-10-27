@@ -21,18 +21,18 @@ visitantes e moradores poderão conhecer melhor os pontos turísticos, participa
 
 ## **Funcionalidades Principais**
 
-## **1 - Agenda Cultural**
+## 🎭 **Agenda Cultural**
 
 Reúne eventos fixos e temporários de Igarassu, como festas tradicionais, feiras, exposições e apresentações culturais.
 Facilita o acesso às datas, locais e horários dos eventos, incentivando a participação da comunidade e dos turistas.
 
-## **2- Trilha / Álbum Turístico**
+## 🏝️ **Trilha / Álbum Turístico**
 
 Cada ponto turístico visitado gera uma figurinha digital colecionável, formando um álbum interativo.
 Estimula o visitante a explorar novos locais e aprender sobre a história e o patrimônio da cidade.
 Pode incluir recompensas simbólicas ou descontos para os participantes mais engajados.
 
-## **3 - Roteiros Personalizados**
+## 🗺️ **Roteiros Personalizados**
 
 Permite ao usuário criar roteiros turísticos sob medida, de acordo com seus interesses, tempo disponível e perfil de visita.
 Gera sugestões automáticas de locais, trilhas e experiências personalizadas.
@@ -42,12 +42,12 @@ Facilita o planejamento e torna a visita mais organizada e educativa.
 
 | Categoria                    | Tecnologias             |
 | ---------------------------- | ----------------------- |
-|  **Frontend**                | HTML5, CSS3, JavaScript |
+|  **Frontend**                | CSS3, JavaScript |
 |  **Backend**                 | Node.js (Express)       |
 |  **Banco de Dados**          | MySQL                   |
 |  **Design e Prototipagem**   | Figma, Canva            |
 |  **Controle de Versão**      | Git e GitHub            |
-|  **Comunicação da Equipe**   | Jira, Discord           |
+|  **Comunicação da Equipe**   | Jira, Google Meet           |
 
 
 
